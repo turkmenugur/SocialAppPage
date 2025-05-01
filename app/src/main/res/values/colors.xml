@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#F2F2F2</color>
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="likeColor">#E57373</color>
+    <color name="superlikeColor">#7E57C2</color>
+    <color name="dislikeColor">#90A4AE</color>
+    <color name="actionButtonBackground">#FFFFFF</color>
+    <color name="chipColorBackground1">#BBDEFB</color>
+    <color name="chipColorText1">#1565C0</color>
+    <color name="chipColorBackground2">#F8BBD0</color>
+    <color name="chipColorText2">#880E4F</color>
+    <color name="chipColorBackground3">#C8E6C9</color>
+    <color name="chipColorText3">#1B5E20</color>
+    <color name="chipColorBackground4">#FFF9C4</color>
+    <color name="chipColorText4">#F57F17</color>
+    <color name="chipColorBackground5">#D1C4E9</color>
+    <color name="chipColorText5">#311B92</color>
+    <color name="chipColorBackground6">#B2DFDB</color>
+    <color name="chipColorText6">#004D40</color>
+
 </resources>

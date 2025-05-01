@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SocialAppPage</string>
+
+    <string name="profile_label_about_me">Hakkımda</string>
+    <string name="profile_label_interests">İlgi Alanları</string>
+
+    <string name="profile_placeholder_location">Madrid, İspanya</string>
+    <string name="profile_placeholder_bio">Merhaba! Ben bir mimar, gezgin ve spor tutkunuyum. Maceralar ve birlikte güzel zamanlar geçirmek için ilginç bir sohbet arkadaşı arıyorum.</string>
+    <string name="gender_and_age">Kadın, 26</string> <string name="interest_art">Sanat</string>
+    <string name="interest_traveling">Seyahat</string>
+    <string name="interest_music">Müzik</string>
+    <string name="interest_sport">Spor</string>
+</resources>

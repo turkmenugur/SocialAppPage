@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SocialAppPage</string>
+    <string name="profile_label_about_me">About me</string>
+    <string name="profile_label_interests">Interests</string>
+    <string name="profile_placeholder_location">Madrid, Spain</string>
+    <string name="profile_placeholder_bio">Hey there! I\'m an architect, traveler, and sports enthusiast. Looking for an interesting conversation partner for adventures and good times together.</string>
+    <string name="gender_and_age">Female, 26</string>
+    <string name="interest_art">Art</string>
+    <string name="interest_traveling">Traveling</string>
+    <string name="interest_music">Music</string>
+    <string name="interest_sport">Sport</string>
 </resources>
